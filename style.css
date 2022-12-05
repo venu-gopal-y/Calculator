@@ -56,9 +56,9 @@ button:focus{
 .screen {
     grid-column: 1/5;
     border-radius: 14px;
-    font-size: 18px;
-    height: 24px;
-    color: #ffffff;
+    font-size: 26px;
+    height: 75px;
+    color: #fff;
     background: #333849;
     text-align: end;
     padding: 12px;
@@ -79,6 +79,7 @@ button:focus{
 
 .symbol{
     background: #5d68e2;
+    align-items: center;
 }
 
 .symbol:hover{
@@ -87,6 +88,7 @@ button:focus{
 
 .number{
     background: #333849;
+    align-items: center;
 }
 
 .number:hover{
