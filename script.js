@@ -1,6 +1,6 @@
 let display = document.getElementById('screen');
 
-const clear = () => {
+const wipe = () => {
     display.value = ''; 
 }
 
